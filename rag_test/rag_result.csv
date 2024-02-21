@@ -1,0 +1,464 @@
+,question,rags,hybrid,answer
+0,"Acrodermatitis enteropathica, Birk-Landau-Perez syndrome, and Spondylocheirodysplastic Ehlers-Danlos syndrome are genetic conditions that all involve abnormalities related to metabolism of what metal?
+Copper
+Iron
+Magnesium
+Zinc
+",Answer: Iron.,Answer: Magnesium.,Zinc
+1,"Which of the following would represent a frameshift variant?
+c.169_170insA
+c.79_80delinsTT
+g.123A>G
+p.Trp24Cys",Answer: The frameshift variant would be (c.169_170insA).,Answer: ,c.169_170insA
+2,"On examination, a patient is noted to have ¡°coarse¡± facial features. Based on this finding, which type of testing would most likely be indicated?
+Chromosomal breakage
+FISH for 22q11.2
+FMR1 repeat analysis
+Urine glycosaminoglycans",FMR1 repeat analysis.,Answer: FMR1 repeat analysis.,Urine glycosaminoglycans
+3,"A man and a woman have 2 children, both of whom are affected by an autosomal recessive condition. The woman is pregnant; what is the chance that their next child will be a boy with this condition (barring any unusual scenarios or exceptions)?
+0.025%
+12.5%
+25%
+33%","Answer: 25% Reason:  The gene in question is an autosomal recessive gene, meaning that the individual must inherit two copies of the gene (one from each parent) in order to develop the condition. Since both children are affected, it is likely that each parent is a carrier of the gene, meaning they each have one copy of the gene. Since the gene is autosomal, the chance of passing on the gene to the next child is 50%, or 25%. Therefore, the chance that the next child will be a boy with the condition is 25%.","Answer: 25% Reason: The gene has a maternal inheritance pattern. Since both children are affected, the mother is a carrier of the condition. When the mother is pregnant again, the probability of the next child being a boy with the condition is 25%.",12.50%
+4,"An infant was slightly premature and is being taken care of in the NICU; on rounds, the team notes ¡°puffiness¡± under the eyes, and that the calcium level has been high on routine blood chemistries. What genetic condition might be suspected based on this?
+22q11.2 deletion syndrome
+Homocystinuria
+Marfan syndrome
+Williams syndrome","Answer: 22q11.2 deletion syndrome Reason:  The symptoms described, including puffiness under the eyes and elevated blood calcium levels, are classic signs of 22q11.2 deletion syndrome, also known as DiGeorge syndrome. This genetic disorder is caused by a deletion of a portion of chromosome 22, resulting in the loss of several important genes, including those involved in the development and function of the parathyroid glands, heart, and other tissues. The resulting changes in calcium metabolism can lead to hypercalcemia (elevated blood calcium levels) and other symptoms.",Answer: 22q11.2 deletion syndrome.,Williams syndrome
+5,"A patient has features consistent with Turner syndrome. Assuming this is the correct diagnosis, what result would be expected on routine cytogenomic studies (with the caveat that mosaic results are not uncommon)?
+45,X
+45,XO
+46,XX
+47,XXX","Answer: 45,X Reason: Because the patient has features consistent with Turner syndrome, the cytogenomic studies are likely to show 45,X, which is a karyotype commonly seen in Turner syndrome, where there is a monosomy for chromosome 45 due to a non-disjunction of the maternal X chromosome.","Answer: 45,XO Reason: The XO karyotype is commonly observed in Turner syndrome, which is characterized by monosomy for the short (p) arm of one of the sex chromosomes (X or Y). The O chromosome typically carries a small number of genes, including the Hox genes, which are involved in the development and patterning of the limbs, and the Shh gene, which is important for the development of the auditory system. The XO karyotype is less common in Turner syndrome, but may also occur due to other causes such as uniparental disomy or mosaicism.","45,X"
+6,"Specific genetic changes from genetic testing can help guide therapy. In a patient with certain types of cancer, identification of a germline pathogenic variant in BRCA1 or BRCA2 might lead to consideration of therapy with what type of agent?
+AAV9-based gene therapy
+Nitrosourea
+PARP inhibitor
+PD-1 inhibitor",Answer: PARP inhibitor. ,"Answer: PARP inhibitor Reason: PARP inhibitors are a type of agent that might be considered for therapy in a patient with certain types of cancer, such as breast or ovarian cancer, who have a germline pathogenic variant in BRCA1 or BRCA2. These inhibitors work by blocking the activity of the PARP enzyme, which is involved in DNA repair. By blocking DNA repair, these inhibitors can increase the effectiveness of chemotherapy and radiation therapy, leading to improved outcomes for patients with BRCA1 or BRCA2 related cancers.",PARP inhibitor
+7,"Which of the following is a membrane-bound organelle that contains digestive enzymes and is involved in a number of cellular processes, including apoptosis, metabolism of large molecules made by the body, and destruction of pathogens?
+Golgi body
+Lysosome
+Mitochondrion
+Ribosome","Answer: Lysosome Reason: Lysosomes are membrane-bound organelles that contain digestive enzymes and are involved in a number of cellular processes, including apoptosis, metabolism of large molecules made by the body, and destruction of pathogens. Lysosomes are found in the cytoplasm of eukaryotic cells and contain a variety of enzymes that can break down a wide range of biomolecules, including carbohydrates, amino acids, and proteins.",Answer: Lysosome.,Lysosome
+8,"An infant has a positive newborn screen for X-linked adrenoleukodystrophy (X-ALD). Follow-up tests are negative for X-ALD, but the child starts to show signs of developmental delay in infancy. What condition should be considered?
+Aarskog syndrome
+Aicardi-Gouti_res syndrome 
+Alagille syndrome
+Alpha thalassemia",Answer: Alagille syndrome,Answer: Alagille syndrome,Aicardi-Gouti_res syndrome
+9,"During a viral pandemic, genetic variants that similarly increase transmissibility (and therefore result in a selective advantage) appear independently in different geographic locations. What is the best term for this?
+Convergent evolution
+Divergent evolution
+Mutualism
+Parsimony","Answer: Divergent evolution Reason:  Because the phenomenon of genetic variants increasing transmissibility and resulting in a selective advantage independently in different geographic locations is a classic example of divergent evolution. Divergent evolution occurs when different populations or species evolve similar traits or characteristics in response to different selective pressures. In this case, the genetic variants that increase transmissibility are evolving independently in different locations, resulting in a convergent evolution towards a similar transmissibility.",Answer: Convergent evolution,Convergent evolution
+10,"A patient has undergone extensive genetic testing without finding an explanation. They enroll in a research study involving a new type of genomic analysis. As part of enrollment, informed consent is obtained. What basic ethical principle includes informed consent?
+Beneficence
+Justice
+Respect for persons
+Subject selection",Answer: Respect for persons.,Answer: Respect for persons.,Respect for persons
+11,"A two year-old girl has been diagnosed with Rett syndrome. In addition to supportive and other care, what type of surveillance is recommended based on this diagnosis?
+Colonoscopy
+Electrocardiogram
+LH and FSH levels
+Melanoma screening","Answer: Colonoscopy Reason: Rett syndrome is a neurodevelopmental disorder that affects the brain and nervous system, and it is associated with an increased risk of gastrointestinal (GI) problems, such as constipation, diarrhea, and GI infections. Colonoscopy is recommended to be performed periodically to evaluate the GI tract for any abnormality, including polyps, inflammation, or cancer. This is because the Rett syndrome individuals are at a higher risk of developing GI problems and GI cancer.","Answer: Colonoscopy Reason: Rett syndrome is a rare genetic disorder that affects the brain and is characterized by difficulty with speech, seizures, and motor difficulties.  Colonoscopy is recommended to screen for any gastrointestinal abnormalities, such as constipation, which is a common symptom of Rett syndrome.",Electrocardiogram
+12,"A patient has features consistent with Noonan syndrome. If this is the correct diagnosis, which gene is most likely to be involved?
+KRAS
+NF1
+PTPN11
+RAF1","Answer: PTPN11 Reason:  PTPN11 is the gene most likely to be involved in Noonan syndrome. This is because Noonan syndrome is a genetic disorder caused by mutations in the PTPN11 gene, which is a key regulator of signaling pathways involved in cell growth and differentiation. The PTPN11 gene is located on chromosome 11 and is known to be subject to genomic imprinting, meaning that the copy inherited from either parent can have different activity levels. The mutations in this gene can lead to the development of various symptoms including short stature, congenital heart defects, and an increased risk of developing leukemia.","Answer: PTPN11 Reason: The PTPN11 gene is the most likely to be involved in Noonan syndrome, as it is a known gene associated with this disorder. Noonan syndrome is a rare genetic disorder characterized by short stature, congenital heart defects, and an increased risk of developing a rare blood disorder called leukemia. Mutations in the PTPN11 gene have been identified in a significant number of individuals with Noonan syndrome.",PTPN11
+13,"On physical exam, a child is noted to have unilateral leukocoria (the pupillary reflex appears white during the eye exam). Which condition might be suspected?
+Macular degeneration
+Retinitis pigmentosa
+Retinoblastoma
+Tay-Sachs disease","Answer: Retinoblastoma. Reason: The unilateral leukocoria (white pupillary reflex) observed during the physical exam is a classic sign of retinoblastoma, a rare and aggressive malignancy of the retina. Retinoblastoma is caused by mutations in the RB1 gene, which is also responsible for the development of the retinoblastoma protein. The RB1 gene is located on the same chromosome (13) as the Tay-Sachs disease gene, which causes a different genetic disorder. Macular degeneration and retinitis pigmentosa are age-related disorders that do not present with this specific physical exam finding.",Answer: Retinoblastoma,Retinoblastoma
+14,"The first form of gene therapy to be FDA-approved for use in the United States, treats what condition?
+Acute lymphoblastic leukemia
+Cystic fibrosis
+Leber congenital amaurosis
+Sickle cell anemia",Answer: Leber congenital amaurosis,Answer: Leber congenital amaurosis.,cute lymphoblastic leukemia
+15,"An apparently healthy woman gives birth to a term male infant. Her brother had a severe inborn error of metabolism, and testing shows that her newborn son is also affected. Assuming no consanguinity or other such circumstance, what condition is most likely in this family?
+Biotinidase deficiency
+OTC deficiency
+Phenylketonuria
+Wilson disease",Wilson disease,Answer: Biotinidase deficiency,OTC deficiency
+16,"A patient has clinical features involved in 22q11.2 deletion syndrome but microarray is normal. Which gene might be involved?
+ELN
+PAFAH1B1
+RAI1
+TBX1","Answer: ELN Reason:  The ELN gene is located within the 22q11.2 deletion syndrome region and is known to be involved in the development of the brain and spinal cord. The ELN gene is a known to be a critical gene for the development of the cerebral cortex and cerebral white matter, and mutations in this gene have been associated with a range of neurodevelopmental disorders, including intellectual disability, autism, and epilepsy. The ELN gene is also known to play a role in the regulation of cell signaling pathways and the maintenance of cellular homeostasis, which may also contribute to the development of the disorder.","PAFAH1B1 Reason: The patient has clinical features consistent with 22q11.2 deletion syndrome, but microarray is normal. The PAFAH1B1 gene is located within the 22q11.2 deletion region and is known to cause 22q11.2 deletion syndrome. The clinical features of this disorder include congenital anomalies, intellectual disability, and immune dysfunction. Therefore, it is possible that the patient's clinical features are caused by a mutation in the PAFAH1B1 gene.",TBX1
+17,"A patient undergoes genetic testing because of a strong family history of papillary renal cell carcinoma. Which of the following genes would most likely be indicated for inclusion in a genetic testing panel for this patient?
+ANKRD26
+MET
+RET
+STK11","Answer: STK11 Reason: The patient's strong family history of papillary renal cell carcinoma is most likely caused by a mutation in the STK11 gene, which is a well-established genetic susceptibility factor for this type of kidney cancer. The STK11 gene encodes a protein called LKB1, which is involved in the regulation of cell growth and division and is mutated in approximately 40% of papillary renal cell carcinomas. Genetic testing for STK11 mutations is commonly performed for individuals with a strong family history of this type of cancer.",Answer: STK11 Reason: ,MET
+18,"Prenatal ultrasound shows findings consistent with Thanataphoric dysplasia; molecular testing via amniocentesis confirms the diagnosis. No parental testing has been done yet. What is the most likely recurrence risk?
+<1%
+25%
+33%
+50%","Answer: 25% Reason: Thanataphoric dysplasia is a rare genetic disorder caused by mutations in the KCNQ1OT1 gene. The gene is located on the short (p) arm of chromosome 11 and plays a crucial role in regulating the development and function of the nervous system. Prenatal ultrasound findings consistent with Thanataphoric dysplasia are typically seen in the first trimester of pregnancy, typically between 12 and 14 weeks of age. These findings include abnormalities in brain and spinal cord, such as a thin or absent (hydrocephalus), thin or absent cerebellum, and thin or absent pons. Molecular testing via amniocentesis confirms the diagnosis by detecting the mutation in the KCNQ1OT1 gene. The recurrence risk for Thanataphoric dysplasia is estimated to be around 25%, which means that if one parent is a carrier, there is a 25% chance that each offspring will inherit the mutation and develop the disorder. However, it's important to note that this estimate is based on limited data and more research is needed to accurately determine the recurrence risk for this rare genetic disorder.","Answer: 50% Reason:  Thanataphoric dysplasia is a rare genetic disorder caused by mutations in the DM20 gene. Since this gene is located on the X chromosome, it is more likely that a male carrier will be affected than a female carrier. Since the prenatal ultrasound findings are consistent with Thanataphoric dysplasia, it is likely that the affected gene is the X-linked DM20 gene. According to the literature, the recurrence risk for Thanataphoric dysplasia is 50% in males and 0% in females. Therefore, the most likely recurrence risk for this family is 50%.",<1%
+19,"A patient is suspected to have mosaicism for a specific genetic variant (a rare single nucleotide variant). Which of the following assays would likely provide the most precise information about the level of mosaicism for this variant?
+Digital droplet PCR
+Genome sequencing
+SNP microarray
+NGS-based panel testing","Answer: Genome sequencing Reason: Genome sequencing is the most likely to provide the most precise information about the level of mosaicism for a specific genetic variant. This is because genome sequencing can detect all variants, including rare single nucleotide variants, in the patient's DNA, regardless of their frequency or distribution. Digital droplet PCR and SNP microarray are limited to detecting more common variants, and may not be as effective at detecting rare variants. NGS-based panel testing may also be able to detect rare variants, but the accuracy of the results may be affected by the panel size and the number of samples.",Answer: Genome sequencing.,Digital droplet PCR
+20,"Genetics is consulted because a young patient has a hand malformation and ipsilateral pectoralis major hypoplasia. Which term refers to these findings?
+Klippel-Feil anomaly
+Pectus carinatum
+Poland anomaly
+Sprengel anomaly",Answer: Poland anomaly Reason: ,"Answer: Sprengel anomaly Reason:  Sprengel anomaly is a rare congenital deformity characterized by a combination of hand malformation and ipsilateral pectoralis major hypoplasia. The term is caused by a genetic mutation that affects the development of the limb buds during embryonic development. This mutation results in the abnormal growth and fusion of the bones in the hand, leading to the characteristic hand malformation. The association between the hand malformation and ipsilateral pectoralis major hypoplasia is a consistent feature of Sprengel anomaly. Other characteristics of this condition include facial dysmorphism, neck flexure, and congenital heart defects.",Poland anomaly
+21,"Due to family history and genetic testing in affected relatives, a healthy patient is suspected to have a balanced translocation. Which test would be most likely to help efficiently identify this translocation?
+Karyotype
+NGS-based panel testing
+Sanger sequencing
+SNP-based microarray",Answer: Sanger sequencing.,Answer: Sanger sequencing.,Karyotype
+22,"A pathogenic variant in which of the following genes can cause a phenotype similar to deletion of chromosome 17p11.2?
+NF1
+RAI1
+RBM8A
+TBX1",Answer: TBX1 Reason:,Answer: TBX1,RAI1
+23,"A patient has a family history that is highly suspicious for Brugada syndrome. Assuming the clinical suspicion is correct, what gene is most likely to be involved?
+CACNA1C
+SCN1B
+SCN5A
+SEMA3A",Answer: SCN5A gene.,Answer: CACNA1C.,SCN5A
+24,"A man and a woman are seen together for prenatal counseling. The couple, both of whom are healthy, are from a community where a childhood-onset autosomal recessive genetic condition affects about 1 in 100 people. The man¡¯s brother has the condition. What is the approximate chance that the couple¡¯s child will be affected?
+0.1%
+1%
+3%
+6%","Answer: 3% Reason: The gene in question is KCNQ1OT1. It is a maternally expressed imprinted gene, which means that only the copy of the gene that comes from the mother is active. The copy that comes from the father is turned off (silenced). Since the gene is imprinted, the activity of the gene depends on the parent of origin. As the gene is inherited from the father, the paternal copy is turned off (silenced). So, the chance that the couple's child will be affected is 3%.","Answer: 3% Reason: The couple's child has a 3% chance of being affected with the autosomal recessive genetic condition, based on the information provided.",3%
+25,"A patient with neonatal-onset epilepsy has been found to have bi-allelic pathogenic variants in the gene ALDH7A1. What treatment might be effective based on the genetic information?
+Allopurinol
+Colchicine
+Levodopa
+Pyridoxine","Colchicine Reason:  The ALDH7A1 gene is involved in the breakdown of the protein building block (amino acid) lysine in the brain.  Bi-allelic pathogenic variants in the ALDH7A1 gene have been associated with neonatal-onset epilepsy.  Colchicine is a drug that inhibits the activity of enzymes involved in the breakdown of lysine.  By inhibiting the breakdown of lysine, colchicine may be effective in treating epilepsy caused by variants in the ALDH7A1 gene.","Answer: Colchicine Reason: The ALDH7A1 gene provides instructions for making an enzyme called α-aminoadipic semialdehyde (α-AASA) dehydrogenase, also known as antiquitin, which is involved in the breakdown of the protein building block (amino) lysine in the brain.  Since colchicine is known to inhibit the activity of the enzyme, it may be an effective treatment for the patient's neonatal-onset epilepsy.",Pyridoxine
+26,"A patient seen by genetics is noted to have developmental delay, obesity, postaxial polydactyly, and renal disease. What condition is most likely?
+Bardet-Biedl syndrome
+Joubert syndrome
+McKusick-Kaufman syndrome
+Senior-Loken syndrome","Answer: Bardet-Biedl syndrome. Reason: The patient's symptoms, including developmental delay, obesity, postaxial polydactyly, and renal disease, are consistent with the clinical features of Bardet-Biedl syndrome. This syndrome is a rare genetic disorder characterized by a wide range of symptoms, including intellectual disability, obesity, postaxial polydactyly, and renal disease. While the other syndromes mentioned in the question could potentially cause some of these symptoms, Bardet-Biedl syndrome is the most likely diagnosis based on the patient's presentation.",Answer: Bardet-Biedl syndrome,Bardet-Biedl syndrome
+27,"An apparently healthy adult woman is referred to genetics because her father and sister have what appears to be a type of familial hypertrophic cardiomyopathy. Who would be the most informative family member to test first?
+The woman¡¯s child
+The woman¡¯s father
+The woman herself 
+The woman¡¯s mother",Answer: The woman herself.,Answer: The woman herself.,The woman¡¯s father
+28,"An apparently healthy adult woman was referred to genetics because her father and sister have familial hypertrophic cardiomyopathy. Genetic testing reveals a VUS in a relevant gene in the father, which is not resolved by further familial testing. Based on this, what is recommended for the woman?
+Discharge from care
+Genetic testing of the woman¡¯s children
+Immediate ICD placement
+Regular clinical cardiac evaluation",Answer: Regular clinical cardiac evaluation.,"Answer: Immediate ICD placement Reason: The woman has a family history of familial hypertrophic cardiomyopathy, which is a serious heart condition that can lead to sudden cardiac death. A VUS (Variant of unknown significance) in a relevant gene in the father, which is not resolved by further familial testing, suggests that the woman may also have the condition. Therefore, it is recommended that she undergoes immediate ICD placement to prevent sudden cardiac death.",Regular clinical cardiac evaluation
+29,"A several month-old boy has a scaly skin rash. Assuming a genetic diagnosis, deficiency of what enzyme might be suspected?
+Aldolase B 
+Arginase
+Mevalonate kinase
+Steroid sulfatase","Arginase Reason:  The scaly skin rash observed in the case is consistent with the symptoms of arginase deficiency, which can result in the formation of a scaly skin rash. Arginase is an enzyme that is involved in the urea cycle, which is important for the breakdown of amino acids in the body. Arginase deficiency can result in a buildup of ammonia in the body, which can cause a scaly skin rash, as well as other symptoms such as vomiting, seizures, and lethargy.",Answer: Mevalonate kinase.,Steroid sulfatase
+30,"Which of the following refers to the most common isochromosome in humans?
+i(1q)
+i(18p)
+i(Xq)
+i(Yp)","Answer: (1q) Reason: The most common isochromosome in humans is (1q), also known as the long arm of chromosome 1. This is because (1q) is the most frequently observed isochromosome in the general population, and is found in approximately 70% of individuals. (1q) is a result of a non-disjunction event during meiosis, which led to the creation of an extra copy of the short arm of chromosome 1. This extra copy is then inherited as a single isochromosome in all of the individual's cells.","Answer: (18p) Reason: The (18p) is the most common isochromosome in humans. This is because the (18p) is a part of a sex chromosome, specifically the Y chromosome, which is one of the two sex chromosomes in humans. The (18p) is present in almost all of the cells in the human body, and is responsible for the sex determination of an individual. The (18p) is present in both males and females, but in different amounts. In males, the (18p) is present in a higher amount than in females, which is why males have a higher risk of developing certain diseases such as testicular cancer.",i(Xq)
+31,"The Genetic Information Nondiscrimination Act (GINA) of 2008 aims to protect Americans from discrimination based on their genetic information related to which of the choices below?
+Disability insurance and Life insurance
+Employment
+Health insurance and Employment
+Long-term care insurance","Answer: Health insurance and Employment. Reason: GINA aims to protect individuals from discrimination based on their genetic information related to employment and health insurance. The law prohibits discrimination in the workplace and in the provision of health insurance based on an individual's genetic information. This includes discrimination in hiring, promotion, and compensation, as well as in the provision of health insurance benefits.",Answer: Health insurance and Employment.,Health insurance and employment
+32,"A woman is affected by an autosomal dominant condition (that is completely penetrant). She has three children. What is the chance that all three of her children are affected by the condition?
+12.5%
+25%
+50%
+75%","Answer: 50% Reason:  The woman's condition is completely penetrant, meaning that the gene is expressed in all cells, including germ cells (sperm or egg). Therefore, all three of the woman's children will inherit the mutated gene, and all three will be affected.","Answer: 50% Reason: The gene is completely penetrant, meaning that every affected individual has a 100% chance of passing on the mutated gene to each of their offspring. Since the woman has three children, each of them has a 100% chance of inheriting the mutated gene from her, meaning that all three children are affected.",12.50%
+33,"Due to physical examination and family history findings suggestive of a genetic condition, a person has been found to have a pathogenic variant in FBN1. Based on this, what medical treatment would most likely be indicated (though this would only be indicated for some conditions related to this gene)?
+Anakinra
+Beta blocker
+Carnitine
+Digoxin","Answer: Anakinra Reason:  The gene provides instructions for making fibrillin-1, a protein that plays a critical role in the structure and function of connective tissue, including skin, ligaments, and blood vessels. Individuals with pathogenic variants in FBN1 are at risk for developing various connective tissue disorders, including Marfan syndrome, a condition characterized by tall stature, long limbs, and skin hyperextensibility. Anakinra, a medication used to treat inflammatory conditions, may be indicated for some of these disorders, such as Marfan syndrome, which is characterized by skin hyperextensibility, and other related connective tissue disorders.",Answer: Beta blocker.,Beta blocker
+34,"Based on medical history and examination, a patient is suspected to have Pallister-Killian syndrome. What tissue source(s) or sample type(s) would likely be most helpful to confirm the diagnosis?
+CSF
+Peripheral blood or saliva
+Buccal swab or skin biopsy
+Urine",Answer: Buccal swab or skin biopsy.,"Answer: Buccal swab or skin biopsy Reason:  The genetic alterations associated with Pallister-Killian syndrome are most likely to be identified through genetic analysis of a skin biopsy or buccal swab. These tissues are rich in melanocytes, which are the cells that produce pigmentation, and are therefore more likely to show genetic alterations. In contrast, CSF and urine are less likely to show these alterations, and peripheral blood and saliva may not be informative enough to make a diagnosis.",Buccal swab or skin biopsy
+35,"For which condition is there an FDA-approved gene therapy available?
+ADA-SCID
+Familial hypercholesterolemia
+Progeria
+Spinal muscular atrophy",Answer: Familial hypercholesterolemia,Answer: Spinal muscular atrophy.,Spinal muscular atrophy
+36,"Which of the following refers to a sequence of DNA that closely resembles a gene, but which has become (apparently) inactive through evolution, and which can result in challenges in genetic testing?
+Euchromatin
+Haplotype
+Pseudogene
+Recombinant",Answer: Pseudogene Reason: A pseudogene is a sequence of DNA that closely resembles a gene but has become inactive through evolution. This can result in challenges in genetic testing because pseudogenes can produce RNA molecules that can interfere with the function of active genes.,Answer: Pseudogene,Pseudogene
+37,"A child with optic atrophy has been diagnosed with Wolfram syndrome. Testing for what other clinical manifestation would be warranted?
+Diabetes mellitus
+Hirschsprung disease
+Hypercholesterolemia
+Immunodeficiency","Answer: Hypochlorhydria. Reason: Wolfram syndrome is associated with various clinical manifestations including gastrointestinal symptoms such as hypochlorhydria, which is characterized by a decreased ability to produce or tolerate gastric acid. The association between Wolfram syndrome and hypochlorhydria has been reported in several case studies.",Answer: Hypochlorosis.,Diabetes mellitus
+38,"A neonate has an older brother with molecularly-confirmed familial hemophagocytic lymphohistiocytosis (fHLH). Based on the causes of fHLH, what is the most likely chance that the neonate will also be ¡°genetically affected¡± (have also inherited the causative variant(s))?
+25%
+33%
+50%
+67%","Answer: 50% Reason: The KHDC3L gene is a known imprinted gene that shows parent-specific expression. The gene is active only if inherited from the mother, and the copy from the father is not active. Since the KHDC3L gene is imprinted, the chance that the neonate will also be ¡°genetically affected¡± (have also inherited the causative variant(s)) is 50%.","Answer: 50% Reason: The KHDC3L, NLRP7, H19, NBEAL2, and KCNQ1OT1 genes are known to undergo genomic imprinting. Genomic imprinting is a phenomenon whereby certain genes are turned off (inactivated) based on which parent the copy of the gene came from. In the case case of fHLH, the causative variant variant(s) are inherited from the father. Therefore, the neonate is likely to be ¡°genetically affected¡± (have also inherited the causative variant(s)). The likelihood of 50% is the most appropriate choice.",25%
+39,"Overall in humans, autosomal aneuploidies most commonly occur due to events during which stage of meiosis?
+Maternal meiosis I
+Maternal meiosis II
+Paternal meiosis I
+Paternal meiosis II",Answer: Maternal meiosis I Reason: ,Answer: Maternal meiosis I.,Maternal meiosis I
+40,"You are seeing a patient suspected to have septo-optic dysplasia. In addition to agenesis/anomalies of the septum pellucidum and corpus callosum and optic nerve hypoplasia, what finding would you most likely anticipate?
+Hirschsprung disease
+Melanoma
+Pituitary anomalies
+Rhizomelia","Answer: Pituitary anomalies Reason: The PAX6 gene is involved in the development of the pituitary gland, and mutations in this gene have been linked to pituitary hormone deficiencies and other pituitary anomalies. The patient's suspected septo-optic dysplasia, which affects the development of the septum pellucidum and corpus callosum, may also contribute to pituitary abnormalities. Hirschsprung disease and melanoma are unrelated to the PAX6 gene and are not likely to be present in this patient. Rhizomelia is a rare genetic disorder that affects the development of the limbs and is not related to the PAX6 gene.",Answer: Pituitary anomalies,Pituitary anomalies
+41,"A woman and a man have a child. Later, the man has another child, this time with the woman¡¯s sister. Approximately what proportion of their DNA would the two children be expected to have in common?
+25%
+37.5%
+50%
+67%","Answer: 50% Reason:  The two children, who are half-siblings, share 50% of their DNA because they inherited the same maternal grandmother's genetic material.","Answer: 50% Reason: The two children are half-siblings, meaning they share the same mother but different fathers. Since they have the same mother, they would have a similar number of shared genes, specifically 50%. ",37.50%
+42,"You are asked to do a genetics consult for a patient whose condition includes overgrowth, vascular malformations, and skin findings (eg, epidermal nevus). Genome sequencing on peripheral blood was unrevealing. Which gene might you suspect?
+
+GNAQ
+PIK3CA
+PTPN11
+TP53",Answer: TP53,"Answer: TP53 Reason: The TP53 gene is a known as the ""guardian of the genome"" due to its role in regulating cell growth and preventing cancer. The patient's symptoms of overgrowth, vascular malformations, and skin findings (eg, epidermal nevi) are consistent with TP53 mutations. Although genome sequencing of peripheral blood was unrevealing, TP53 mutations may be present in other tissues such as the liver or muscle. TP53 is also known to be imprinted, meaning the paternally inherited copy is active while the maternally inherited copy is not active. This parent-specific difference in gene activation is caused by a phenomenon called genomic imprinting. Therefore, the TP53 gene may be suspect in this case.",PIK3CA
+43,"An adult woman has a history of easy bruising and prolonged bleeding. Her father had acute myelogenous leukemia; she mentions that he also seemed to have similar bruising and bleeding issues. What gene would most likely be involved?
+
+PTEN
+PTCH1
+RUNX1
+VHL","Answer: PTEN. Reason: The patient's history of easy bruising and prolonged bleeding, along with her father's acute myelogenous leukemia, suggests that a mutation in the PTEN gene may be involved. PTEN is a tumor suppressor gene that plays a critical role in regulating cell growth and preventing transformation to cancer. Mutations in PTEN have been associated with a variety of cancers, including leukemia.",Answer: PTEN Reason: The PTEN gene is most likely involved in this case.,RUNX1
+44,"A genetic condition that affects about 1 in 50,000 infants is added to newborn screening. The assay for the condition has 99.9% sensitivity and 99.9% specificity. An infant has a positive screen result. Based on just this information, what is the (approximate) chance the child has the condition?
+
+0.01%
+2%
+98%
+99.9%","Answer: 98% Reason: The sensitivity and specificity of the assay for the condition are 99.9% each. This means that if an infant has a positive screen result, the chance the child has the condition is 98% (1 - 0.02).",Answer: 98%,2%
+45,"A man and a woman both have a clinical condition because they both have a certain heterozygous genetic variant. They have a child, who inherits both genetic changes (one from each parent). The child is much more severely affected than the parents. What is the term for this inheritance?
+
+Codominance
+Incomplete dominance
+Variable expressivity
+X-linked inheritance","Answer: X-linked inheritance Reason: The inheritance pattern observed in this scenario is X-linked inheritance, where the child inherits both the paternal and maternal alleles of the gene, resulting in a more severe expression of the clinical condition compared to the parents. X-linked inheritance is a mode of inheritance in which the genetic effect of one X-chromosome is masked or modified by the presence of another X-chromosome with a different genotype.",Answer: Incomplete dominance.,Incomplete dominance
+46,"A person has a very rare genetic condition that affects about 1 in 500,000 people. A test to detect this condition has 95% sensitivity and 99% specificity. What is the chance that the test will be negative for this individual?
+
+1%
+5%
+95%
+99%","Answer: 95% Reason: The test has 95% sensitivity, which means that for every 100 individuals tested, the test will correctly identify 95 individuals with the condition as present, and 5 individuals as not having the condition as present. In this case, the individual has the condition, so the probability of a negative test result is 5% (5/100).","Answer: 5%. Reason: The test has 95% sensitivity, which means that for every 100 individuals tested, 95 will actually have the condition. Since the individual has the condition, they are not included in the 95% that will test positive, so the test result will be negative.",5%
+47,"A person undergoes enzymatic testing for beta-hexosaminidase A (HEX A, related to Tay-Sachs disease). The result shows absent enzyme activity. However, the person is not affected, and does not carry a disease-associated allele. What is the best explanation for this?
+
+Allele dropout
+Gene duplication 
+Nondisjunction
+Pseudodeficiency",Answer: Gene duplication.,Answer: Nondisjunction.,Pseudodeficiency
+48,"Some genetic conditions have considerable genetic heterogeneity (the condition can be caused by variants in different genes). Which of the following conditions, all of which can involve predisposition to certain types of cancer, involves the most genetic heterogeneity?
+
+Fanconi anemia
+Li-Fraumeni syndrome
+Tuberous sclerosis
+Von Hippel-Lindau syndrome",Tuberous sclerosis.,Answer: Tuberous sclerosis.,Fanconi anemia
+49,"You order a microarray for a child with a neurobehavorial phenotype involving autism and developmental delay; he has no other apparent pertinent clinical findings. Which of the following deletions would most likely be expected on the microarray result given the description?
+
+16p11.2
+17q11.2
+7q11.23
+8q23.3-q24.11","Answer: 16p11.2 Reason: The 16p11.2 region is known to be a critical region for neurobehavioral development, and several genes in this region have been implicated in autism and developmental delay. The most common deletions in this region are associated with neurodevelopmental disorders, including autism and intellectual disability. The 16p11.2 region is also a common target for genomic imprinting, which may also contribute to the clinical presentation.","Answer: 16p11.2 Reason: The 16p11.2 region is known to be imprinted, and the deletion of this region has been associated with neurobehavioral phenotypes, including autism and developmental delay. The child's neurobehavioral phenotype without other apparent pertinent clinical findings suggests that the imprinted 16p11.2 region is the most likely candidate for deletion.",16p11.2
+50,"A woman has been diagnosed with breast cancer. Which of the following findings would most suggest that this could be related to a pathogenic variant in BRCA1 or BRCA2?
+
+No affected relatives
+Onset at 80 years of age
+Triple-negative status
+Unilateral cancer",Answer: 3: Reason: 1.,Answer: Unilateral cancer.,Triple-negative status
+51,"A person undergoes exome sequencing. Two different pathogenic variants are detected in a gene associated with an autosomal recessive condition. Which of the following would likely best determine the variants¡¯ inheritance (to see if the variants are in cis or trans)?
+ 
+Genome sequencing
+Karyotype
+Microarray testing
+Parental testing","Answer: Karyotype Reason: A karyotype analysis can determine the inheritance pattern of the variants because it provides information about the parental origin of the chromosomes. By analyzing the number of methylation marks on the parental origin of the chromosomes, the inheritance pattern of the variants can be determined. For example, if the variants are only present on the maternally inherited chromosomes, it suggests that the variants are in cis. On the other hand, if the variants are present on both paternal and maternal chromosomes, it suggests that the variants are in trans.",Answer: Microarray testing Reason: ,Parental testing
+52,"Based on clinical history and previous testing, you suspect that a patient has ornithine transcarbamylase (OTC) deficiency. What biochemical test might help confirm this diagnosis?
+
+Blood succinylacetone
+CSF guanidinoacetate 
+Total carnitine
+Urine orotic acid",Answer: Urine orotic acid.,Answer: Urine orotic acid.,Urine orotic acid
+53,"A man is affected by an extremely rare autosomal recessive genetic condition. What is the chance that the man¡¯s grandchild will be a carrier of the condition? 
+
+12.5%
+25%
+50%
+100%","Answer: 25% Reason: The gene in question is an imprinted gene. In an imprinted gene, the expression of the gene is influenced by the parental origin of the gene. In this case, the gene is expressed from the father's copy. Since the man is affected with an extremely rare autosomal recessive genetic condition, the gene is expressed from the mother's copy, making the man's grandchild a carrier of the condition.","Answer: 50% Reason: The FMR1 gene is functionally modified in the affected individual. The AGG repeats are interrupted by CGG, which stabilizes the long repeated segment. Since the affected individual is a carrier of the condition, there is a 50% chance that the grandchild will be a carrier of the condition.",50%
+54,"You suspect that your patient has myotonic dystrophy. Which of the following would suggest that this person has myotonic dystrophy type 1 (versus myotonic dystrophy type 2)?
+
+Arrhythmias 
+Cataracts
+Developmental delay
+Myotonia","Reason: Myotonia is a key feature of myotonic dystrophy, particularly myotonic dystrophy type 1. Myotonia is a condition characterized by muscle stiffness or rigidity, particularly in the face, neck, and hands. It is a result of a abnormality in the DMPK gene, which provides instructions for making the protein myotonic dystrophy protein kinase. This protein is involved in communication inside cells and between cells, particularly in muscle cells. In myotonic dystrophy, the abnormality in the DMPK gene leads to an imbalance in the protein's function, which causes the muscle stiffness or rigidity. Myotonia is typically the first symptom to appear in people with myotonic dystrophy, particularly those with myotonic dystrophy type 1.",Answer: The triplet repeat number (54) suggests that the individual has myotonic dystrophy type 1.,Developmental delay
+55,"You follow a young adult who has been diagnosed with Lynch syndrome. Her father is also affected; he was diagnosed with colorectal cancer in his late 30s. According to current guidelines, at about what age is colonoscopy recommended for your patient?
+
+10-15 years of age
+20-25 years of age
+30-35 years of age
+Around 50 years of age",Answer: 30-35 years of age,Answer: 30-35 years of age.,20-25 years of age
+56,"A young adult has anomalies affecting the limbs, but extensive testing, exam, and history do not reveal any other medical issues, such as affecting other organ systems, or neurodevelopmental issues. What gene would most likely be involved?
+
+BBS1
+FANCA
+GDF5
+NIPBL","Answer: GDF5 Reason: The gene GDF5 is most likely involved in this case because it has been shown to be responsible for a rare genetic disorder known as ""limb reductionism,"" which results in shortened limbs. This disorder is caused by mutations in the GDF5 gene, and it is the only gene among the options provided that is known to cause this specific type of limb abnormality.","Answer: GDF5 Reason:  The young adult's anomalies affecting the limbs are consistent with a genetic disorder caused by mutations in the GDF5 gene. The GDF5 gene is a known imprinted gene, meaning that only the paternally inherited copy is active. Mutations in the paternally inherited copy of the GDF5 gene can cause limb abnormalities, including short stature, brachydactyly (shortened or deformed fingers/toes), and other skeletal abnormalities.",GDF5
+57,"You are designing a laboratory assay to test for a condition that involves a ¡°repeat expansion¡± (related to a repeat disorder, like Fragile X syndrome, Huntington disease, or Myotonic dystrophy type 1). Which of the following lab techniques would most likely describe the main test methodology that would be used for this assay?
+
+FISH testing
+PCR fragment analysis
+Sanger sequencing
+SNP-based microarray","Answer: Sanger sequencing Reason: Sanger sequencing is the most likely method used for this assay because it provides the highest resolution and accuracy for detecting repeat expansions, especially for larger repeats. FISH and PCR fragment analysis are less sensitive for detecting repeat expansions, especially for smaller repeats. Sanger sequencing allows for the detection of the exact number of repeats, which is important for diagnosing repeat disorders.",Answer: Sanger sequencing.,PCR fragment analysis
+58,"A woman undergoes standard non-invasive prenatal screening (NIPS) to assess for certain genetic conditions affecting the fetus. What incidental finding would be most likely to be identified (and potentially reported) via this test?
+
+Consanguinity
+Fragile X syndrome
+Maternal cancer
+Tuberculosis",Answer: Tuberculosis.,Answer: Tuberculosis,Maternal cancer
+59,"Multiple United States Supreme Court cases have involved decisions that directly or indirectly involved biomedical patent questions. Which case most directly led to the current stance that human genes cannot be patented?
+
+AMP v. Myriad
+Diamond v. Chakrabarty
+LabCorp v. Metabolite
+Mayo v. Prometheus","Answer: AMP v. Myriad Reason: The Supreme Court case of AMP v. Myriad (2013) most directly led to the current stance that human genes cannot be patented. In this case, the court held that genes are not patent eligible because they are ""products of nature"" and not ""human inventions."" This decision effectively overturned previous decisions that had allowed the patenting of genes, and established a new legal framework for determining what can and cannot be patented in the field of genetics.","Answer: AMP v. Myriad Reason: In 2013, the United States Supreme Court case AMP v. Myriad (2013) directly led to the current stance that human genes cannot be patented. In this case, the Supreme Court held that genes are not patentable because they are ""products of nature"" and not ""human inventions."" This decision overturned a previous ruling that had allowed Myriad to patent the BRCA1 and BRCA2 genes, which are associated with an increased risk of breast and ovarian cancer. The Supreme Court's ruling in AMP v. Myriad has had significant implications for the field of genetics and has led to a reevaluation of the patentability of human genes.",AMP v. Myriad
+60,"A patient is suspected to have a genetic cause of rhabdomyolysis. A condition affecting which pathway or mechanism would be most likely?
+
+Bile acid synthesis
+Fatty acid oxidation
+Peroxisomal metabolism
+Urea cycle","Answer: The answer is: Bile acid synthesis. Reason: Rhabdomyolysis is a condition where muscle tissue is damaged, leading to release of glycogen and other cellular components into the blood. Bile acid synthesis is a metabolic pathway that is not directly related to muscle tissue, so it is less likely to be affected in a patient with rhabdomyolysis.",Answer: Urea cycle,Fatty acid oxidation
+61,"In a person with sickle cell disease, which treatment would be instituted to help reduce vaso-occlusive sequelae, including pain episodes and acute chest syndrome?
+
+Hydroxyurea
+Penicillin
+Pneumococcal vaccine
+TNF inhibitors","Reason: Penicillin is not a treatment for sickle cell disease. Hydroxyurea, TNF inhibitors, and Pneumococcal vaccine are treatments for sickle cell disease that can help reduce vaso-occlusive sequelae, including pain episodes and acute chest syndrome. Penicillin is an antibiotic that is not effective in treating sickle cell disease.","Answer: Hydroxyurea Reason: Hydroxyurea is a standard treatment for sickle cell disease, particularly for vaso-occlusive sequelae, including pain episodes and acute chest syndrome. Hydroxyurea works by increasing the production of fetal hemoglobin, which reduces the severity of sickling and improves the symptoms of sickle cell disease. Studies have shown that hydroxyurea significantly reduces the frequency and severity of pain episodes and acute chest syndrome in patients with sickle cell disease.",Hydroxyurea
+62,"A couple has several children who appear to be affected by a genetic condition. Cytogenetic testing via peripheral blood reveals a cause in one of the parents, both of whom are healthy. Which of the following is the most likely finding in the parent?
+
+Monosomy
+Paracentric inversion
+Pericentric inversion
+Trisomy",Answer: Paracentric inversion.,"Answer: Trisomy. Reason:  Trisomy occurs when a person inherits three copies of a gene instead of the usual two copies. This can happen if the sperm or egg cell that fertilizes the parent cell has an extra copy of the gene. Since both parents are healthy, the extra copy of the gene must be inherited from one of them. In this case, the most likely finding in the parent is trisomy of the gene.",Pericentric inversion
+63,"A person has a suspected genetic condition, but exome testing does not identify the cause. Subsequent genome sequencing does identify the cause, however. Based on this, what type of variant was most likely identified by genome sequencing?
+
+Deep intronic variant
+Exonic variant
+Mosaic variant
+Multi-gene deletion","Answer: Exonic variant Reason: Exome testing typically focuses on the protein-coding regions of the genes (exons), while genome sequencing covers the entire genome, including non-coding regions (introns) and intergenic regions. The identification of the cause of the genetic condition by genome sequencing suggests that the variant identified is likely to be an exonic variant, which is a change in the DNA sequence of an exon, the regions of a gene that contain the information needed to produce a protein.",Answer: Exonic variant.,Deep intronic variant
+64,"The mitochondrial genome contains multiple genes. Other than genes for tRNAs and rRNAs, mitochondrial genes encode subunits involved in what biological process?
+
+Glycolysis
+Oxidative phosphorylation
+Photosynthesis
+Ubiquitylation",Answer: 3. Oxidative phosphorylation.,Answer: Oxidative phosphorylation.,Oxidative phosphorylation
+65,"At his annual check-up, a young adult mentions a strong family history of early-onset colon cancer. He undergoes colonoscopy, which identifies hundreds of polyps. Which gene is most likely involved?
+
+APC
+EPCAM
+MSH6
+PTEN",Answer: APC.,Answer: ,APC
+66,"Which term refers to a representation of all the different versions of genomic information within a species?
+
+Diploid genome
+Exome 
+Haplotype
+Pangenome",Answer: Haplotype.,Answer: Haplotype.,Pangenome
+67,"You are evaluating a patient, and suspect a certain diagnosis based on history and examination. You order exome sequencing. A diagnosis of which condition would most likely be molecularly confirmed this way?
+
+Bardet-Biedl syndrome
+Beckwith-Wiedemann syndrome
+Fragile X syndrome
+Prader-Willi syndrome",Answer: Fragile X syndrome,"Fragile X syndrome Reason:  Fragile X syndrome is a genetic disorder that can be molecularly confirmed through exome sequencing. It is caused by an expansion of a CGG repeat in the FMR1 gene, which leads to a toxic RNA product that disrupts the functioning of the nerves, testes, or ovaries. Exome sequencing can identify the number of CGG repeats in the FMR1 gene, which can help diagnose Fragile X syndrome.",Bardet-Biedl syndrome
+68,"A man has bi-allelic pathogenic variants in the CFTR gene, but does not have clinical signs of cystic fibrosis. He may have congenital absence of which of the following?
+
+Neutrophils
+Pancreas
+Thymus
+Vas deferens",Answer: Pancreas.,"Answer: Pancreas. Reason: The CFTR gene provides instructions for making a protein called the CF transmembrane conductance regulator (CFTR). This protein functions as a channel across the membrane of cells that produce mucus, sweat, saliva, tears, and digestive enzymes. The channel transports negatively charged particles called chloride ions into and out of cells. The transport of chloride ions helps control the movement of water in tissues, which is necessary for the production of thin, freely flowing mucus. Mucin is a slippery substance that lubricates and protects the lining of the airways, digestive system, reproductive system, and other organs and tissues. The CFTR protein also regulates the function of other channels, such as those that transport positively charged particles called sodium ions across cell membranes. These channels are necessary for the normal function of organs such as the lungs and pancreas. Therefore, a congenital absence of the pancreas would result in a lack of functional CFTR protein, leading to the clinical signs of cystic fibrosis.",Vas deferens
+69,"A pregnant person undergoes non-invasive prenatal screening (NIPS), which shows a result of 45,X for the pregnancy. According to the literature, what is the approximate positive predictive value of this result (the likelihood that this result is a true positive)?
+
+5-7%
+20-30%
+50-70%
+97-99%",Answer: 50-70% Reason: ,Answer: 5-7% Reason:,20-30%
+70,"A neonate has progressive encephalopathy in the first week of life. Plasma amino acids show increased levels of leucine, isoleucine, valine, and alloisoleucine. What is the most likely diagnosis?
+
+Biotinidase deficiency
+Homocystinuria
+Maple syrup urine disease
+Phenylketonuria",Answer: Maple syrup urine disease,Maple syrup urine disease.,Maple syrup urine disease
+71,"Third-trimester ultrasound shows an increased (>95th %) head circumference, slightly increased abdominal circumference, and long bones below the third percentile for gestational age. What condition is most likely?
+
+Achondroplasia
+Arthogryposis
+Osteopetrosis
+Stickler syndrome",Answer: Osteopetrosis,Answer: Arthogryposis,Achondroplasia
+72,"A person has been diagnosed with Von Hippel-Lindau disease. Overall, what is the common type of neoplasm in people with this condition?
+
+Endolymphatic sac tumor
+Hemangioblastoma
+Pheochromocytoma
+Renal cell carcinoma",Answer: Renal cell carcinoma.,Renal cell carcinoma.,Hemangioblastoma
+73,"A person enrolled in a research study is suspected to have a genetic condition. You use a multi-layered neural network to analyze photos of the person in order to aid the differential diagnosis. What is the best description of this type of artificial intelligence approach?
+
+Bayesian inference
+Deep learning
+Diffusion model
+Unsupervised learning",Answer: Deep learning.,Answer: Deep learning.,Deep learning
+74,"An infant is diagnosed with a severe form of beta-thalassemia. As part of the diagnostic work-up, what analyte would be expected to be absent or reduced on laboratory-based testing?
+
+Factor VIII
+Hemoglobin A
+Hemoglobin F
+Platelets",Answer: Hemoglobin F.,Answer: Hemoglobin F,Hemoglobin A
+75,"A person with a suspected genetic condition undergoes genomic testing, which identifies an explanatory, novel pathogenic variant in an established disease gene. The lab deposits the variant into a public database. Into which database was the variant most likely deposited?
+
+1000 Genomes
+ClinVar
+GeneMatcher
+gnomAD",Answer: ClinVar.,Answer: ClinVar,ClinVar
+76,"In general (and with the understanding that there can be exceptions and atypical, rare situations), which of the following genetic changes would most likely be suspected to affect canonical splicing?
+
+c.1845+1G>A
+c.888+651T>A
+c.3362A>G (p.Glu1121Gly)
+c.413-24A>G ","Answer: c.1845+1G>A Reason: This change is located in the intron-exon junction of the TXNL4A gene, which is the region where the splicing process is initiated. This change is likely to disrupt the splicing process, leading to the inclusion of the exon and resulting in a non-functional protein.",Answer: The c.1845+1G>A change would most likely affect canonical splicing.,c.1845+1G>A
+77,"A research laboratory in the United States supports a genomic research program. The lab decides to obtain CLIA certification. This certification is most important to allow the lab to be able to do which of the following:
+
+Bill for services
+Conduct sequencing
+Return individual results
+Study children","Answer: Bill for services. Reason: The CLIA (Clinical Laboratory Improvement Amendments Act) certification is required for clinical laboratories to be eligible to receive payment from Medicare and Medicaid programs for their services. It is not related to sequencing or returning individual results, but rather to billing for services.",Answer: The lab can bill for services.,Return individual results
+78,"Out of 100 people with pathogenic variants in a certain gene, 50 develop heart disease; out of 100 people without pathogenic variants in that gene, 10 develop heart disease. What is the relative risk of heart disease in people with pathogenic variants in that gene?
+
+0.4
+0.5
+1
+5","Answer: 0.4 Reason: The relative risk of heart disease in people with pathogenic variants in that gene is 0.4, as the question states that 50 out of 100 people with pathogenic variants in that gene develop heart disease, which is a relative risk of 0.4.",Answer: 0.5 Reason: The relative risk is calculated by dividing the incidence rate of the disease in the group with the pathogenic variant (50) by the incidence rate of the disease in the control group (100-50= 50). So the relative risk is 0.5 or 50%.,5
+79,"The wings of a bat and a bird have similar forms and functions but did not develop in this way due to a common ancestor. What is the best term for the relationship between these wing structures?
+
+Analogous
+Divergent
+Embryologic
+Homologous",Answer: Homologous.,Answer: Homologous,Analogous
+80,"You are analyzing whole genome sequencing data for patients with suspected  genetic conditions. For which of the following conditions would it be logical to analyze the most number of known disease-related genes to identify the molecular cause?
+
+Cornelia de Lange syndrome
+Neurofibromatosis type 1
+Propionic acidemia
+Tuberous sclerosis","Answer: Neurofibromatosis type 1. Reason: Neurofibromatosis type 1 (NF1) is a complex genetic disorder that can affect various tissues, including the brain, heart, and skin. It is caused by mutations in the NF1 gene, which contains a large number of disease-related genes, including the DMPK, H19, FMR1, and MBD5 genes. Therefore, it would be logical to analyze the most number of known disease-related genes in the NF1 gene to identify the molecular cause of the condition.",Answer: Tuberous sclerosis.,Cornelia de Lange syndrome
+81,"A teen-ager has a several year history of intellectual deterioration, ataxia, and progressive myoclonic epilepsy. His father had a condition in middle age that included ataxia, dementia, progressive psychiatric disturbances, and choreoathetosis. What condition would be most likely?
+
+Ataxia-telangiectasia
+Dentatorubral-pallidoluysian atrophy (DRPLA) 
+Friedreich ataxia
+Huntington disease",Answer: Huntington disease,Answer: Huntington disease.,Dentatorubral-pallidoluysian atrophy (DRPLA)
+82,"In general (and with the caveat that there can be exceptions), a person affected by which of the following conditions would be expected to demonstrate overt clinical manifestations at the earliest age?
+
+Dravet syndrome
+Hereditary hemochromatosis
+Maturity Onset Diabetes of the Young (MODY)
+Spinal and Bulbar Muscular Atrophy, X-linked 1 (Kennedy disease)",Answer: Dravet syndrome.,Answer: MODY.,Dravet syndrome
+83,"You evaluate a young child with very convincing signs of Silver-Russell syndrome. Which test(s) would be most logical to order first?
+
+11p15 methylation and UPD7 testing
+Acylcarnitine profile
+Karyotype and FISH for 22q11.2
+Microarray","Answer: 11p15 methylation and UPD7 testing. Reason:  Silver-Russell syndrome is a rare genetic disorder caused by methylation defects on the paternal copy of chromosome 11p15. Therefore, testing the methylation status of this region (11p15) and assessing for UPD7 (uniparental disomy) is the most logical first step in evaluating this child. The other tests mentioned may provide additional information, but 11p15 methylation and UPD7 testing are the most directly related to the diagnosis of Silver-Russell syndrome.",Answer: 11p15 methylation testing.,11p15 methylation and UPD7 testing
